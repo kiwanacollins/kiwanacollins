@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently developing AI-powered attendance systems with facial recognition
+- 🔭 I'm currently Helping Businesses build technology
 - 🌱 I'm continuously exploring new technologies and frameworks
 - 💡 Passionate about solving real-world problems through technology
 - 🤝 Open for collaborations on innovative projects
@@ -103,7 +103,6 @@
 
 <div align="center">
   
-  ### Check out my contributions! 👇
   
   
 </div>
