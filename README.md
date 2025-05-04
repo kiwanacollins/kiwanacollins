@@ -24,16 +24,6 @@
 
 <br>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/kiwanacollins/ai-attendance-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiwanacollins&repo=ai-attendance-system&theme=radical" alt="AI Attendance System" />
-  </a>
-  <a href="https://github.com/kiwanacollins/biometric-attendance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiwanacollins&repo=biometric-attendance&theme=radical" alt="Biometric Attendance" />
-  </a>
-</div>
 
 ## 📊 GitHub Analytics
 
