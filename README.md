@@ -1,4 +1,4 @@
-# Kiwana Collins
+# Kiwana Collins - Software Engineer
 
 <div align="center">
   
@@ -105,7 +105,6 @@
   
   ### Check out my contributions! 👇
   
-  ![Snake animation](https://github.com/kiwanacollins/kiwanacollins/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
