@@ -1,4 +1,4 @@
-# Kiwana Collins - Software Engineer
+# Kiwana Collins | Software Engineer
 
 <div align="center">
   
